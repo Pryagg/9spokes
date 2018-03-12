@@ -1,0 +1,18 @@
+1) Config Package: 
+a)URL : Enter URL of site
+b)Browser : Enter Browser name( for now this is only done for GoogleChrome
+c)AccountType : Enter Type of account business/personal
+
+2) Steps to Run Test Case:
+a) Go to class login under testcases by following path
+   9spokes > src/test/java >testcases > login 
+b)  Right Click on testcase and select Run with TestNG(or Direct Click on testng.xml)
+
+3) Input_Sheet
+9spokes > src/test/resources > Datatables >accountType.xlsx
+(user can choose different inputs and add different inputs)
+
+4) Results:
+For Results follow the Path
+9spokes > src/test/resources > Datatables >accountType.xlsx
+
